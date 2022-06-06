@@ -1,3 +1,3 @@
 ### Hey, we're Fountain! ⛲
 
-https://get.fountain.com/careers
+https://fountain.com/careers
