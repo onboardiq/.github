@@ -1,3 +1,3 @@
 ### Hey, we're Fountain! ⛲
 
-https://fountain.com/careers
+https://jobs.lever.co/fountain
