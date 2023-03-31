@@ -1,9 +1,3 @@
----
-title: "[EXPRESS LANE] Your Pull Request Title"
-labels: express_lane
-assignees: your_username #ex: qwoodmansee
-# reviewers: username3, username4 #ex: qwoodmansee, onboardiq/hire
----
 
 ## Overview
 
